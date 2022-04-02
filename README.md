@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 案例说明
+
+1. src/hooks-introduction/Greeting 提供了 Dan Abramov 演示： useState、useContext、useEffect、自定义 Hooks 的使用。
+
+2. src/hooks-introduction/MediaQuery 提供了 Ryan Florence 演示：如何基于自定义 Hooks 优化嵌套的代码结构。
+
+3. src/hooks-introduction/Carousel 提供了 Ryan Florence 演示：如何基于 useState、useEffect、自定义 Hooks 改造一个自己开发的 Carousel 应用。
+
 ## Available Scripts
 
 In the project directory, you can run:
